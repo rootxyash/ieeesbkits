@@ -3,9 +3,9 @@ import classes from "./Faq.module.css";
 
 const questions = [
   {
-    question: "What is SAMBHAV 2K23?",
+    question: "What is IEEE SB-KITS?",
     answer:
-      "SAMBHAV 2k23 is the one of biggest Technical event in the history of DYPCOE.",
+      "IEEE SB-KITS is the one of biggest Technical event in the history of DYPCOE.",
   },
   {
     question: "What are the Dates and Timings of event?",
