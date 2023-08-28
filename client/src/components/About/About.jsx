@@ -9,9 +9,9 @@ const About = () => {
         <div className={classes.about}>
           <div className={classes.details}>
             <h3 className={classes.heading}>About</h3>
-            <h2 className={classes.heading1}>SAMBHAV 23</h2>
+            <h2 className={classes.heading1}>IEEE SB KITS</h2>
             <p className={classes.para}>
-              Sambhav is a technical festival offering a diverse range of events
+              Sambhav is a technical festival offering diverse events
               and competitions focused on technology and innovation. It provides
               a platform for individuals to showcase their skills, learn from
               others, and foster creativity, teamwork, and problem-solving
