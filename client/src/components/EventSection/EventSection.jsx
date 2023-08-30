@@ -12,15 +12,15 @@ const EventSection = () => {
             {/* <h3 className={classes.heading}>About</h3> */}
             <h2 className={classes.heading1}>EVENTS</h2>
             <p className={classes.para}>
-              SAMBHAV reflects the spirit of the festival and its mission to
+              IEEE SB-KITS conducts various events just like a festival and its mission to
               provide a platform for individuals to push their limits and
               challenge themselves to turn their ideas and innovative projects
-              into reality. The festival offers a diverse range of technical
+              into reality. The forum offers a diverse range of technical
               events and competitions designed to showcase the talents and
               skills of participants while fostering creativity, teamwork, and
               problem-solving abilities. With its focus on technology and
-              innovation, Sambhav truly embodies its name and serves as a
-              catalyst for making the impossible possible.
+              innovation,IEEE SB-KITS truly embodies its name and serves as a
+              catalyst for making the impossible possible
             </p>
 
             {/* <p className={classes.para}>
