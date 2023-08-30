@@ -5,22 +5,22 @@ const questions = [
   {
     question: "What is IEEE SB-KITS?",
     answer:
-      "IEEE SB-KITS is the one of biggest Technical event in the history of DYPCOE.",
+      "The Institute of Electrical and Electronics Engineers (IEEE) is an active forum present in a KITS, Ramtek.",
   },
   {
-    question: "What are the Dates and Timings of event?",
+    question: "What are the Dates and Timings of each event?",
     answer:
-      "The event will start at 9AM on 20th Feb and will be till 21st of Feb 10 PM",
+      "Dates and Timings related details are given in event section",
   },
   {
     question: "How can I participate in the event?",
     answer:
-      "Explore various events on the SAMBHAV's website and register for the same",
+      "Explore various events on the IEEE SB-KITS website and register for the same",
   },
   {
-    question: "Is there any entry fee for SAMBHAV 2k23?",
+    question: "Will there be any entry fees for the events?",
     answer:
-      "No, there is not any entry fee to explore SAMBHAV 2k23 but to participate in some events you have pay registration fee.",
+      "No, there is not any entry fee to explore and to know more about forum but to participate in some events you have to pay registration fee.",
   },
 ];
 
