@@ -132,7 +132,7 @@ const Navbar = () => {
           <a
             target="_blank"
             rel="noopener noreferrer"
-            href="https://grabbits.vercel.app/"
+            href="https://teknodeon.netlify.app/"
           >
             {/* <button className={classes.btn}>GrabBit</button> */}
             <div className={classes.btn}>
