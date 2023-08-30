@@ -3,20 +3,20 @@ import sambhavLogo from "../../assets/Logo.png";
 import grabbitslogo from "../../assets/grabbits.png";
 import classes from "./Footer.module.css";
 
-const sambhavinsta = "https://www.instagram.com/sambhav_dypcoe/";
-const sambhavlinkedin = "https://www.linkedin.com/company/sambhav-tech-fest/";
+const sambhavinsta = "https://www.instagram.com/ieee.kits.studentbranch/";
+const sambhavlinkedin = "https://www.linkedin.com/company/";
 // const sambhavitwitter=''
 
-const grabbitinsta = "https://www.instagram.com/grabbits_/";
-const grabbitlinkedin = "https://www.linkedin.com/company/grabbits/";
-const grabbittwitter = "https://twitter.com/grabbits_";
-const grabbitwebsite = "https://grabbits.vercel.app/";
+const grabbitinsta = "https://www.instagram.com/tekno.kits/";
+const grabbitlinkedin = "https://www.linkedin.com/company/";
+const grabbittwitter = "https://twitter.com/teknodeon2k23";
+const grabbitwebsite = "https://teknodeon.netlify.app/";
 
-const spiderurl = "https://www.linkedin.com/in/om-gawande/";
-const saurabh = "https://www.linkedin.com/in/saurabh-barde-5b617321a/";
-const sanyog = "https://www.linkedin.com/in/sanyog-mahajan-8288a7204/";
+const spiderurl = "https://yashdevkate.me/";
+const saurabh = "";
+const sanyog = "";
 
-const grabbiturl = "https://www.grabbitdypcoe.in";
+const grabbiturl = "https://teknodeon.netlify.app/";
 const Footer = () => {
   return (
     <div className={classes.footer_outer}>
@@ -35,8 +35,7 @@ const Footer = () => {
             </div>
           </div>
           <p className={classes.footer_sambhav_description}>
-            Sambhav'23 is One of the Largest Technical festival of Pune. Let&apos;s
-            make a Tech move.
+            The Institute of Electrical and Electronics Engineers (IEEE) is a professional association for the students.
           </p>
           <div className={classes.footer_social_item}>
             <div>
@@ -98,8 +97,7 @@ const Footer = () => {
             </div>
           </div>
           <p className={classes.footer_sambhav_description}>
-            Get the latest updates about internships, hackathons, job openings
-            and much more..
+            Teknodeon is the biggest event of KITS Ramtek, A national level technical festival conducted by the students for the students.
           </p>
           <div className={classes.footer_social_item}>
             <div>
@@ -179,7 +177,7 @@ const Footer = () => {
               />
             </div>
             <div>
-              <p>D.Y. Patil College of Engineering, Pune</p>
+              <p>KaviKulguru Institute of Technology and Science, Ramtek</p>
             </div>
           </div>
           <div className={classes.footer_contact}>
@@ -191,7 +189,7 @@ const Footer = () => {
               />
             </div>
             <div>
-              <p>7447819903</p>
+              <p> +91 - 7114 - 255309</p>
             </div>
           </div>
           <div className={classes.footer_contact}>
@@ -203,24 +201,24 @@ const Footer = () => {
               />
             </div>
             <div>
-              <p className={classes.mail}>sambhavdypcoeofficial@gmail.com</p>
+              <p className={classes.mail}>info@kits.edu</p>
             </div>
           </div>
         </div>
       </div>
       <div className={classes.footer_creator_div}>
         <h4 className={classes.footer_creator}>
-          Website designed and created by{" "}
+          Website created by{" "}
           <a
             href={spiderurl}
             target="_blank"
             rel="noopener noreferrer"
             className={classes.footer_a_link}
           >
-            @Om Gawande
+            @Yash Devkate
           </a>{" "}
           ,{" "}
-          <a
+          {/* <a
             href={saurabh}
             target="_blank"
             rel="noopener noreferrer"
@@ -238,7 +236,7 @@ const Footer = () => {
           >
             {" "}
             @Sanyog Mahajan
-          </a>{" "}
+          </a>{" "} */}
         </h4>
       </div>
     </div>
