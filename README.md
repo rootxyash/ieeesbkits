@@ -54,5 +54,5 @@ Events:
  
 ## Glimpse ✨
 
-### Website : [Click here](https://sambhav-dypcoe.netlify.app/)
+### Website : [Click here]()
 </a>
