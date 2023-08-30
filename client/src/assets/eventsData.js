@@ -30,9 +30,9 @@ export const eventsData = [
   {
     id: 1,
     image: Khoj,
-    name: "Khoj",
+    name: "Example EVenr",
     description:
-      "The KHOJ project idea pitching event is designed to give students an opportunity to showcase their innovative project ideas to a panel of judges. The main objective of this competition is to highlight the students' technical proficiency, creativity, and problem-solving capabilities and provide them with a platform to receive feedback and recognition for their hard work.",
+      "Example Desciption",
     rules: [
       "An ideal team size would consist of a minimum of 2 and a maximum of 4 individuals.",
       "Individuals from diverse departments are eligible for participation within the team.",
@@ -48,22 +48,23 @@ export const eventsData = [
       "All team leaders are respectfully requested to complete the registration form by providing the necessary information.",
       "All the events will commence at the scheduled time; Punctuality will be appreciated.",
     ],
-    prizes: ["1st Prize: ₹7000", "2nd Prize: ₹5000", "3rd Prize: ₹3000"],
+    prizes: ["1st Prize: ₹", "2nd Prize: ₹", "3rd Prize: ₹"],
     team: "2-4",
     fees: "₹100 per team",
     contactInfo: [
-      "Pratik Patil : 9370438737",
-      "Dnyanesh Bachhav : 9370735440",
-      "Vishakha Gaurakar : 9158615935",
+      "",
+      "",
+      "",
     ],
-    location: "Software Lab I A Building",
-    date: "20 and 21 Feb",
+    location: "CT Department",
+    date: "Will be announced son",
     note: [
       "Teams having a working model of their idea will be considered as a plus point by judging panel.",
       "If any kind of trolling, offending, or misbehaving seen by participants will not be tolerated.",
     ],
-    link: "https://docs.google.com/forms/d/e/1FAIpQLSflBya7_eDYE43kIwv6acx5TpqyqXkrQMgmOtLM5oYAnfJAzA/viewform?usp=sf_link",
+    link: "",
   },
+  {/*
   {
     id: 2,
     image: TreasureHunt,
@@ -838,5 +839,6 @@ export const eventsData = [
   //   date: "20th Feb, 2022",
   //   note: [""],
   //   link: "",
-  // },
+  // }, 
+  */}
 ];
