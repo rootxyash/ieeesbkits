@@ -9,17 +9,14 @@ const About = () => {
         <div className={classes.about}>
           <div className={classes.details}>
             <h3 className={classes.heading}>About</h3>
-            <h2 className={classes.heading1}>IEEE SB KITS</h2>
+            <h2 className={classes.heading1}>IEEE KITS</h2>
             <p className={classes.para}>
-              Sambhav is a technical festival offering diverse events
-              and competitions focused on technology and innovation. It provides
-              a platform for individuals to showcase their skills, learn from
-              others, and foster creativity, teamwork, and problem-solving
-              abilities. By exposing attendees to the latest advancements in
-              technology, Sambhav helps broaden their knowledge and skillset,
-              making it a fun, engaging, and enriching experience for all
-              attendees. Get ready to be a part of the biggest technical
-              extravaganza of the year 2k23 – Sambhav!
+              IEEE Student Branch KITS gives students a community of peers, and 
+              a connection to faculty and industry professionals who drive innovation
+              in countless technical fields. Student involvement in Branch activities, 
+              whether special projects, social and technical meetings, outreach programs, 
+              conferences, local Section or Regional opportunities, etc. can help 
+              develop a record of accomplishment and capabilities beyond the norm.
             </p>
 
             {/* <p className={classes.para}>
